@@ -35,5 +35,6 @@ public class PetTest {
         pet.setBirthDate(bd);
         //Assert
         assertEquals(bd,pet.getBirthDate());
+        
     }
 }
